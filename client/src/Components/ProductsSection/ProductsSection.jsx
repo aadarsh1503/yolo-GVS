@@ -19,7 +19,7 @@ const ProductsSection = () => {
     <div className="w-full bg-white pt-4 px-4 md:pt-6 md:px-6 lg:pt-8 lg:px-10 pb-10">
       
       {/* Main Teal Container */}
-      <section className="relative w-full bg-[#00A3B1] rounded-[40px] md:rounded-[50px] overflow-hidden px-8 md:px-16 lg:px-20 py-16 shadow-sm">
+      <section className="relative w-full bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden px-8 md:px-16 lg:px-20 py-16 shadow-sm">
         
         {/* Heading */}
         <h1 className="text-white font-black uppercase text-[50px] md:text-[70px] lg:text-[88px] leading-none mb-16 select-none">

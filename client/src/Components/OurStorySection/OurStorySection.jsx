@@ -14,12 +14,12 @@ const OurStorySection = () => {
 
       <div className="max-w-6xl">
         {/* Main Heading - 96px */}
-        <h1 className="font-gloria text-[#00A3B4] font-bold text-[55px] md:text-[80px] lg:text-[96px] leading-tight mb-12">
+        <h1 className="font-gloria text-[#264E36] font-bold text-[55px] md:text-[80px] lg:text-[96px] leading-tight mb-12">
           Our Story
         </h1>
 
         {/* Body Text - 28px */}
-        <div className="font-gloria text-[#00A3B4]  text-[20px] md:text-[24px] lg:text-[28px] leading-[1.4] space-y-12">
+        <div className="font-gloria text-[#264E36]  text-[20px] md:text-[24px] lg:text-[28px] leading-[1.4] space-y-12">
           
           <p>
             But why smartphones, laptops or electric cars? Why the surge in aeronautics, 

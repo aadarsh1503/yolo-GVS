@@ -13,7 +13,7 @@ const MaryIntroSection = () => {
       </style>
 
       {/* Main Teal Container */}
-      <section className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] bg-[#7DC5CC] rounded-[40px] md:rounded-[50px] overflow-hidden flex items-center justify-center shadow-sm">
+      <section className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden flex items-center justify-center shadow-sm">
         
         {/* CENTER: Mary the Cow */}
         <div className="absolute inset-0 flex items-center top-14 justify-center z-10 pt-20">

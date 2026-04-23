@@ -26,7 +26,7 @@ const BetterSection = () => {
       </style>
 
       {/* Main Teal Container */}
-      <section className="relative w-full bg-[#00A3B1] rounded-[40px] md:rounded-[50px] overflow-hidden px-8 md:px-16 lg:px-20 py-16 shadow-sm">
+      <section className="relative w-full bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden px-8 md:px-16 lg:px-20 py-16 shadow-sm">
         
         {/* --- MAIN HEADING (Reasons 1-25) --- */}
         <div className="mb-16">
@@ -198,14 +198,14 @@ const BetterSection = () => {
   <img 
     src="https://res.cloudinary.com/ds1dt3qub/image/upload/v1776595937/Screenshot_2026-04-19_161529_qrmyrh-removebg-preview_ciogcv.png" 
     alt="leaf decoration" 
-    className="absolute bottom-0 left-0 w-32 md:w-48 z-20"
+    className="absolute -bottom-16 left-0 w-32 md:w-48 z-20"
   />
 </div>
 
             {/* Right: Input Form */}
             <div className="w-full max-w-md relative z-20 mb-10">
               <div className="bg-white rounded-[30px] p-6 shadow-lg min-h-[160px]">
-                <label className="text-[#4399AC] font-black text-xs md:text-sm uppercase block mb-2">
+                <label className="text-[#264E36] font-black text-xs md:text-sm uppercase block mb-2">
                   YOOK IS BETTER BECAUSE:*
                 </label>
                 <textarea 
@@ -214,7 +214,7 @@ const BetterSection = () => {
                 ></textarea>
               </div>
               <div className="flex justify-end mt-4">
-                <button className="bg-[#008A96] hover:bg-[#007681] text-white font-black px-12 py-3 rounded-2xl text-xl transition-all shadow-md uppercase">
+                <button className="bg-[#FBCA31] hover:bg-[#e0b22a] text-white font-black px-12 py-3 rounded-2xl text-xl transition-all shadow-md uppercase">
                   Send
                 </button>
               </div>

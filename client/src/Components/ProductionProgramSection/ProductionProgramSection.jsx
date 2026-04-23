@@ -30,7 +30,7 @@ const ProductionProgramSection = () => {
         </div>
 
         {/* MIDDLE: TEXT CONTENT (Compact font sizes) */}
-        <div className="lg:col-span-5 text-[#00A3B1] flex flex-col space-y-6">
+        <div className="lg:col-span-5 text-[#264E36] flex flex-col space-y-6">
           <div>
             <h3 className="font-black text-[13px] uppercase mb-1">Yook Production’s Development Program 2025-2026.</h3>
             <p className="text-[11px] leading-tight opacity-90">
@@ -75,7 +75,7 @@ const ProductionProgramSection = () => {
           
           {/* OVERLAY TEXT (Top layer) */}
           <div className="relative z-[100] text-right pr-4">
-            <h2 className="text-[#00A3B1] font-black text-3xl md:text-4xl lg:text-[28px] leading-[0.95] uppercase tracking-tighter">
+            <h2 className="text-[#264E36] font-black text-3xl md:text-4xl lg:text-[28px] leading-[0.95] uppercase tracking-tighter">
               Yook
               Production AS <br />
               <span className="text-2xl md:text-3xl lg:text-[28px]">Estonia</span>

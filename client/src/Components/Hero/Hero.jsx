@@ -15,7 +15,7 @@ const HeroSection = () => {
       </style>
 
       {/* Main Blue Container */}
-      <section className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] bg-[#7DC5CC] rounded-[40px] md:rounded-[50px] overflow-hidden flex items-center shadow-sm">
+      <section className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden flex items-center shadow-sm">
         
         <div className="container mx-auto px-8 md:px-16 lg:px-20 grid grid-cols-1 lg:grid-cols-2 gap-8 items-center h-full w-full">
           

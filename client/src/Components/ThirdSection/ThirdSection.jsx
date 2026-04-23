@@ -6,11 +6,11 @@ const ThirdSection = () => {
     <div className="w-full bg-white pt-4 px-4 md:pt-6 md:px-6 lg:pt-8 lg:px-10">
       
       {/* Main Container */}
-      <section className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] bg-[#7DC5CC] rounded-[40px] md:rounded-[50px] overflow-hidden shadow-sm flex items-center">
+      <section className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden shadow-sm flex items-center">
         
         {/* Left Side: Background Image (z-0) */}
         <img 
-          src="https://yook.eu/static/foto-1440x809.jpg" 
+          src="https://res.cloudinary.com/ds1dt3qub/image/upload/v1776929267/image-Picsart-AiImageEnhancer_pupaia.png" 
           alt="Yook Lifestyle" 
           className="absolute inset-0 w-full h-full object-cover object-left z-0"
         />

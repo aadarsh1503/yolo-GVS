@@ -8,7 +8,7 @@ const ContactSection = () => {
       <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" fill="white">
         <path d="M91.3,47.3c1.6,12.5-5.1,26.4-15.1,35c-10,8.6-23.7,11.8-36.8,9.4c-13.1-2.4-25.5-10.4-31.4-22.3 C2.1,57.5,1.9,43.4,7.4,31.4c5.5-12,16.8-21.8,29.9-25c13.1-3.2,28.1,0.1,38.6,8.4C86.4,23.1,89.7,34.8,91.3,47.3z" />
       </svg>
-      <div className="relative z-10 text-[#00A3B1]">
+      <div className="relative z-10 text-[#264E36]">
         {children}
       </div>
     </div>
@@ -25,7 +25,7 @@ const ContactSection = () => {
       </style>
 
       {/* Main Teal Container */}
-      <section className="relative w-full min-h-[600px] bg-[#00A3B4] rounded-[40px] md:rounded-[50px] overflow-hidden p-8 md:p-16 lg:p-20 shadow-sm">
+      <section className="relative w-full min-h-[600px] bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden p-8 md:p-16 lg:p-20 shadow-sm">
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 relative z-10">
           
@@ -92,27 +92,27 @@ const ContactSection = () => {
                 <label className="block text-white font-bold mb-2 ml-1">Name</label>
                 <input 
                   type="text" 
-                  className="w-full bg-[#7DC5CC]/40 border-none rounded-2xl p-4 text-white placeholder-white/70 focus:ring-2 focus:ring-white outline-none h-14"
+                  className="w-full bg-[#FBCA31]/40 border-none rounded-2xl p-4 text-white placeholder-white/70 focus:ring-2 focus:ring-white outline-none h-14"
                 />
               </div>
               <div>
                 <label className="block text-white font-bold mb-2 ml-1">E-mail</label>
                 <input 
                   type="email" 
-                  className="w-full bg-[#7DC5CC]/40 border-none rounded-2xl p-4 text-white placeholder-white/70 focus:ring-2 focus:ring-white outline-none h-14"
+                  className="w-full bg-[#FBCA31]/40 border-none rounded-2xl p-4 text-white placeholder-white/70 focus:ring-2 focus:ring-white outline-none h-14"
                 />
               </div>
               <div>
                 <label className="block text-white font-bold mb-2 ml-1">Message</label>
                 <textarea 
                   rows="4"
-                  className="w-full bg-[#7DC5CC]/40 border-none rounded-2xl p-4 text-white placeholder-white/70 focus:ring-2 focus:ring-white outline-none resize-none"
+                  className="w-full bg-[#FBCA31]/40 border-none rounded-2xl p-4 text-white placeholder-white/70 focus:ring-2 focus:ring-white outline-none resize-none"
                 ></textarea>
               </div>
               <div className="flex justify-end pt-2">
                 <button 
                   type="button" 
-                  className="bg-[#008A96] hover:bg-[#007681] text-white font-black px-12 py-3 rounded-2xl text-xl transition-all shadow-md uppercase"
+                  className="bg-[#FBCA31] hover:bg-[#e0b22a] text-white font-black px-12 py-3 rounded-2xl text-xl transition-all shadow-md uppercase"
                 >
                   Send
                 </button>

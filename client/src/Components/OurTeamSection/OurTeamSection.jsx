@@ -7,7 +7,7 @@ const OurTeamSection = () => {
       <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" fill="white">
         <path d="M91.3,47.3c1.6,12.5-5.1,26.4-15.1,35c-10,8.6-23.7,11.8-36.8,9.4c-13.1-2.4-25.5-10.4-31.4-22.3 C2.1,57.5,1.9,43.4,7.4,31.4c5.5-12,16.8-21.8,29.9-25c13.1-3.2,28.1,0.1,38.6,8.4C86.4,23.1,89.7,34.8,91.3,47.3z" />
       </svg>
-      <div className="relative z-10 text-[#00A3B1]">
+      <div className="relative z-10 text-[#264E36]">
         {children}
       </div>
     </div>
@@ -38,7 +38,7 @@ const OurTeamSection = () => {
     <div className="w-full bg-white pt-4 px-4 md:pt-6 md:px-6 lg:pt-8 lg:px-10 pb-10">
       
       {/* Main Teal Container */}
-      <section className="relative w-full min-h-[600px] bg-[#00A3B4] rounded-[40px] md:rounded-[50px] overflow-hidden p-8 md:p-16 lg:p-20 shadow-sm">
+      <section className="relative w-full min-h-[600px] bg-[#264E36] rounded-[40px] md:rounded-[50px] overflow-hidden p-8 md:p-16 lg:p-20 shadow-sm">
         
         {/* Main Heading - 128px */}
         <h1 className="text-white font-black uppercase text-[50px] md:text-[90px] lg:text-[128px] leading-none mb-16 relative z-10">
