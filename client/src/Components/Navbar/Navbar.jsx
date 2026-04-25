@@ -53,7 +53,7 @@ const Navbar = () => {
               activeLang === 'UR' ? 'text-[#264E36]' : 'text-[#264E36]/40'
             }`}
           >
-            اردو
+          العربية
           </button>
         </div>
       </div>
